@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://${MONGODB_USERNAME:itau}:${MONGODB_PASSWORD:itau}@${MONGODB_HOST:localhost}:${MONGODB_PORT:27017}/${MONGODB_DATABASE:itau}
+itau:
+  properties:
+    sms-url: sms-url
+    email-url: email-url
+    carta-url: carta-url

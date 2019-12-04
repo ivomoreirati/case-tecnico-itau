@@ -1,0 +1,16 @@
+[
+  {
+    "idCliente": 1,
+    "id": "1",
+    "subject": "Cobrança devida",
+    "body": "Favor, cliente João, verifique com o banco itaú os seus débitos",
+    "sended": false
+  },
+  {
+    "idCliente": 2,
+    "id": "2",
+    "subject": "Cobrança devida",
+    "body": "Favor, cliente Ivo, verifique com o banco itaú os seus débitos",
+    "sended": false
+  }
+]
