@@ -1,5 +1,5 @@
-# case-tecnico-itau
-Case técnico para renegociação e cobrança itaú.
+
+Teste para renegociação e cobrança.
 
 To run it locally:
 - Create Mongodb container:
